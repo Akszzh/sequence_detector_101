@@ -19,6 +19,11 @@ The FSM transitions through states based on the input bitstream (`x`) and produc
 3. Observe the waveform output using GTKWave or the simulator’s waveform viewer.
 4. Verify that `z` goes high when the input sequence `101` is detected.
 
+## Output Waveform
+
+![Waveform](waveform.png)
+ 
+
 ## Features
 
 - Moore FSM-based design
